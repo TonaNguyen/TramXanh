@@ -46,7 +46,7 @@ const Navbar = () => {
                   Ví dụ: src="/path/to/your/logo.jpg" 
                 */}
                 <img 
-                  src="logo.png" 
+                  src="public/images/logo.png" 
                   alt="Trạm Xanh Logo" 
                   className="relative z-10 w-full h-full rounded-full object-cover p-1 border-2 border-green-600"
                 />
