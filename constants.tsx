@@ -70,7 +70,7 @@ const IMAGE_RESOURCES = {
     '/images/suachua/sua-chua-nguyeen-chat.jpg',
     '/images/suachua/sua-chua-nguyeen-chat.jpg',
     '/images/suachua/sua-chua-nguyeen-chat.jpg',
-   ' /images/suachua/suachuanepcam.jpg',
+    '/images/suachua/suachuanepcam.jpg',
     '/images/suachua/suachuamatong.jpg',
     '/images/suachua/sauchuadau.jpg',
     '/images/suachua/suachuaviet.jpg',
