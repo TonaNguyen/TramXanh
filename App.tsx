@@ -103,7 +103,7 @@ const Navbar = () => {
           <div className="flex justify-between items-center mb-10">
             <div className="flex items-center gap-3">
                <img 
-                  src="https://images.unsplash.com/photo-1542838132-92c53300491e?w=100&h=100&fit=crop" 
+                  src="/imges/logo.png" 
                   alt="Logo" 
                   className="w-10 h-10 rounded-full object-cover border-2 border-green-600"
                 />
@@ -144,7 +144,7 @@ const Footer = () => {
             <div className="flex items-center space-x-4">
               <div className="bg-white p-1 rounded-full w-14 h-14 shadow-lg overflow-hidden border-2 border-green-500">
                 <img 
-                  src="logo.png" 
+                  src="/images/logo.png" 
                   alt="Footer Logo" 
                   className="w-full h-full object-cover rounded-full"
                 />
